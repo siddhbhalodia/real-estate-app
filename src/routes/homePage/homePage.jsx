@@ -30,7 +30,7 @@ function HomePage() {
           </div>
         </div>
       </div>
-      <div className="imgContainer">
+      <div className="imgContainer" style={{ zIndex: "-1" }}>
         <img src="/bg.png" alt="" />
       </div>
     </div>

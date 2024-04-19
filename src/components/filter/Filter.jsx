@@ -4,7 +4,7 @@ import './filter.scss'
 export default function Filter() {
   return (
     <div className="filter">
-        <h1>Search result for<b>London</b></h1>
+        <h1>Search result for <b>London</b></h1>
         <div className='top'>
           <div className='item'>
             <label htmlFor="city">Location</label>
