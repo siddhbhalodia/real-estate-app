@@ -34,21 +34,24 @@ function SinglePage() {
           <div className="listVertical">
             <div className="feature">
               <img src="/utility.png" alt="" />
-              <div className="featureText"></div>
-              <span>Utilities</span>
-              <p>Renter is Responsible</p>
+              <div className="featureText">
+                <span>Utilities</span>
+                <p>Renter is Responsible</p>
+              </div>
             </div>
             <div className="feature">
               <img src="/pet.png" alt="" />
-              <div className="featureText"></div>
-              <span>Pet Policy</span>
-              <p>Pets Allowed</p>
+              <div className="featureText">
+                <span>Pet Policy</span>
+                <p>Pets Allowed</p>
+              </div>
             </div>
             <div className="feature">
               <img src="/fee.png" alt="" />
-              <div className="featureText"></div>
-              <span>Property Fees</span>
-              <p>Must have 3x the rent in total household income</p>
+              <div className="featureText">
+                <span>Property Fees</span>
+                <p>Must have 3x the rent in total household income</p>
+              </div>
             </div>
           </div>
           <p className="title">Room Sizes</p>
@@ -70,21 +73,24 @@ function SinglePage() {
           <div className="listHorizontal">
             <div className="feature">
               <img src="/school.png" alt="" />
-              <div className="featureText"></div>
-              <span>School</span>
-              <p>250m away</p>
+              <div className="featureText">
+                <span>School</span>
+                <p>250m away</p>
+              </div>
             </div>
             <div className="feature">
               <img src="/bus.png" alt="" />
-              <div className="featureText"></div>
-              <span>Bus stop</span>
-              <p>100m away</p>
+              <div className="featureText">
+                <span>Bus stop</span>
+                <p>100m away</p>
+              </div>
             </div>
             <div className="feature">
               <img src="/restaurant.png" alt="" />
-              <div className="featureText"></div>
-              <span>Restaurant</span>
-              <p>200m away</p>
+              <div className="featureText">
+                <span>Restaurant</span>
+                <p>200m away</p>
+              </div>
             </div>
           </div>
           <p className="title">Location</p> 
